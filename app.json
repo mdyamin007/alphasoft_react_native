@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "alphasoft_react_native",
-    "slug": "alphasoft_react_native",
-    "scheme": "alphasoft_react_native",
+    "name": "alphasoft-react-native",
+    "slug": "alphasoft-react-native",
+    "scheme": "alphasoft-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
