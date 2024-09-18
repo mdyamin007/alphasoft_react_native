@@ -15,7 +15,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mdyamin.alphasoft_react_native"
+      "package": "com.mdyamin.alphasoftreactnative"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -25,7 +25,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "f37715fb-dbb5-4440-af51-c3470432475b"
+        "projectId": "e9e765c4-6aa5-4633-ae5e-4141deba1e1e"
       }
     }
   }
